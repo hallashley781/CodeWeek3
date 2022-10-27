@@ -15,3 +15,19 @@ let firstName= 'Ashley'
 let lastName= 'Hall'
     console.log(middleIntial+ ' '+ 'Leann' + ' ' + firstName + ' ' + lastName);
 
+    let apple = .25
+let (apple + .45);
+    console.log(apple + .45);
+
+let walletMoney= 25
+let (walletMoney - 10);
+    console.log(walletMoney);
+
+let numberFriends= 5
+let(numberFriends - 2);
+let(numberFriends +3);
+    console.log(numberFriends);
+
+let ageYear = 23
+let (ageYear + 2);
+    console.log(ageYear);
